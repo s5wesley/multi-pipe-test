@@ -12,7 +12,7 @@ pipeline {
                 echo 'Hello World'
             }
         }
-        stage('welcome') {
+        stage('good-day') {
             steps {
                 echo 'Hello World'
             }
